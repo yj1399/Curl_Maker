@@ -1,0 +1,43 @@
+.t1{
+    height: 100%;
+    width: 100%;
+    padding: 12px 20px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+.t2{
+    height: 100%;
+    width: 100%;
+    padding: 12px 20px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+.button-green {
+    background: rgb(28, 184, 65) !important; 
+    color: rgb(255, 255, 255) !important;
+    position: absolute;
+    top: 50%; 
+    left: 45.5%;
+    height: 50px;
+    width: 120px;   
+}
+
+.s40p {
+    height: 40%;
+}
+
+.s20p {
+    height: 20%;
+}
+
+html, body, div.md, form.md{
+  height: 100%;
+}
