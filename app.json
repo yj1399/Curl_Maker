@@ -1,7 +1,7 @@
 {
   "name": "Django Curl",
   "description": "Web-App that allows you to execute curl commands",
-  "repository": "https://github.com/siddver007/django_curl.git",
-  "logo": "https://avatars2.githubusercontent.com/u/17350072?v=3&s=466",
+  "repository": "https://github.com/yj1399/Curl_Maker.git",
+  "logo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLx5v8gI3mAhWFzjgGHTYXAwIQjRx6BAgBEAQ&url=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2F2016%2F05%2F27%2Fa-new-curl-logo%2F&psig=AOvVaw21AHD37w5nTdh8wLheYNso&ust=1575033981578359",
   "keywords": ["django", "curl"]
 }
